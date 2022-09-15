@@ -1,0 +1,6 @@
+/health
+/v0/assets
+/v0/assets?limit=10&offset=10
+/v0/assets?limit=50&offset=50
+/v0/assets?limit=100&offset=100
+/v0/assets/countries
